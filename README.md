@@ -41,3 +41,10 @@ Circuit assembly is a difficult part while practicing embedding and iot. We curr
 <p align="center">
   <a href="https://www.tinkercad.com/things/4iX7pRtHsmC">Circuit Installation Instructions</a>
 </p>
+
+
+## Files and Folders:
+
+Currently, the project was completed in **March 2023**, the project only includes one arduino file written in **C++ language**. To get the most out of the circuit, you should download the Arduino IDE in [this link](https://www.arduino.cc/en/software/).
+- [Dinosaur_Game_IOT](Dinosaur_Game_IOT.ino): This is the main source code file of the project, you just need to install the circuit according to the instructions, download the source code, enter the source code into your arduino board and enjoy the game.
+- [Project Report Dinosaur Game Arduino.docx](Project_Report_Dinosaur_Game_Arduino.docx): This file is written in Microsoft Word, this is the final report of the project. There are detailed instructions for functions, maps, charts, algorithms and more. Hope it will be useful to you.
